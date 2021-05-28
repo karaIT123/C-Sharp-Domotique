@@ -1,0 +1,11 @@
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\bin\Debug\Domotique.exe.config
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\bin\Debug\Domotique.exe
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\bin\Debug\Domotique.pdb
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\obj\Debug\Domotique.csprojAssemblyReference.cache
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\obj\Debug\Domotique.Configuration_Ports.resources
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\obj\Debug\Domotique.Form1.resources
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\obj\Debug\Domotique.Properties.Resources.resources
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\obj\Debug\Domotique.csproj.GenerateResource.cache
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\obj\Debug\Domotique.csproj.CoreCompileInputs.cache
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\obj\Debug\Domotique.exe
+C:\Users\Hey PUSSY !!!\source\repos\Domotique\Domotique\obj\Debug\Domotique.pdb

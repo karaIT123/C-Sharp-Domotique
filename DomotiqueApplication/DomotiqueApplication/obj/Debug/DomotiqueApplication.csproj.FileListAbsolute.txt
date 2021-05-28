@@ -1,0 +1,11 @@
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\bin\Debug\DomotiqueApplication.exe.config
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\bin\Debug\DomotiqueApplication.exe
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\bin\Debug\DomotiqueApplication.pdb
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\obj\Debug\DomotiqueApplication.csprojAssemblyReference.cache
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\obj\Debug\DomotiqueApplication.Configuration.resources
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\obj\Debug\DomotiqueApplication.Form1.resources
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\obj\Debug\DomotiqueApplication.Properties.Resources.resources
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\obj\Debug\DomotiqueApplication.csproj.GenerateResource.cache
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\obj\Debug\DomotiqueApplication.csproj.CoreCompileInputs.cache
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\obj\Debug\DomotiqueApplication.exe
+C:\Users\Hey PUSSY !!!\source\repos\DomotiqueApplication\DomotiqueApplication\obj\Debug\DomotiqueApplication.pdb
